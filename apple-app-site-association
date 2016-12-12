@@ -1,15 +1,1 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "3Z9CCX5J9A.com.myfriends.myfriendsapp",
-                "paths": [ "*"]
-            },
-            {
-                "appID": "3Z9CCX5J9A.com.myfriends.myfriendsapphd",
-                "paths": [ "/auth/password/recover"]
-            }
-        ]
-    }
-}
+{"applinks":{"apps":[],"details":[{"appID":"3Z9CCX5J9A.com.myfriends.myfriendsapp","paths":["*"]},{"appID":"3Z9CCX5J9A.com.myfriends.myfriendsapphd","paths":["/auth/password/recover"]}]}}
