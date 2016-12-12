@@ -4,15 +4,11 @@
         "details": [
             {
                 "appID": "3Z9CCX5J9A.com.myfriends.myfriendsapp",
-                "paths": [ "/auth/password/recover"]
+                "paths": [ "*"]
             },
             {
                 "appID": "3Z9CCX5J9A.com.myfriends.myfriendsapphd",
                 "paths": [ "/auth/password/recover"]
-            },
-            {
-                "appID": "947BNYL69G.com.provectus.dev.myfriends",
-                "paths": [ "*"]
             }
         ]
     }
