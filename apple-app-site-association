@@ -12,7 +12,7 @@
             },
             {
                 "appID": "947BNYL69G.com.provectus.dev.myfriends",
-                "paths": [ "/auth/password/recover"]
+                "paths": [ "*"]
             }
         ]
     }
